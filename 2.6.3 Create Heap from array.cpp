@@ -4,6 +4,7 @@
 #include<algorithm>
 using namespace std;
 
+// Lets make heap form array
 // To heapify a subtree rooted with node i
 void heapify(int arr[], int n, int i) 
 { 
